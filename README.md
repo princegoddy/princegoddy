@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi 👋 I'm Ugoh-Godwin Prince
 
-<!--
-**princegoddy/princegoddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full-Stack JavaScript Engineer
 
-Here are some ideas to get you started:
+I'm a passionate JavaScript developer focused on building scalable backend systems and responsive web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+
+- JavaScript (ES6+)
+- Node.js
+- Express.js
+- MongoDB
+- HTML5
+- CSS3
+- REST APIs
+- Git & GitHub
+- JWT Authentication
+- Paystack API
+
+---
+
+## 📌 Featured Projects
+
+### 🚗 Car Rental API
+Production-ready REST API with authentication, role-based access control, bookings, payments, and email notifications.
+
+### 💍 Wedding Website
+Responsive wedding website with an interactive gifting system and Paystack payment integration.
+
+---
+
+## 🌱 Currently Learning
+
+- React
+- TypeScript
+- Docker
+- AWS
+
+---
+
+## 📫 Contact Me
+
+Email:
+**princegodwin1998@gmail.com**
+
+GitHub:
+**github.com/princegoddy**
