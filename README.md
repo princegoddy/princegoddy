@@ -9,6 +9,7 @@ I'm a passionate JavaScript developer focused on building scalable backend syste
 ## 🚀 Tech Stack
 
 - JavaScript (ES6+)
+- React
 - Node.js
 - Express.js
 - MongoDB
@@ -18,7 +19,7 @@ I'm a passionate JavaScript developer focused on building scalable backend syste
 - Git & GitHub
 - JWT Authentication
 - Paystack API
-- React
+
 
 ---
 
