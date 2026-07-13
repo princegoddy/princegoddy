@@ -18,6 +18,7 @@ I'm a passionate JavaScript developer focused on building scalable backend syste
 - Git & GitHub
 - JWT Authentication
 - Paystack API
+- React
 
 ---
 
@@ -33,7 +34,7 @@ Responsive wedding website with an interactive gifting system and Paystack payme
 
 ## 🌱 Currently Learning
 
-- React
+
 - TypeScript
 - Docker
 - AWS
