@@ -46,6 +46,3 @@ Responsive wedding website with an interactive gifting system and Paystack payme
 
 Email:
 **princegodwin1998@gmail.com**
-
-GitHub:
-**github.com/princegoddy**
