@@ -1,6 +1,6 @@
 # Hi 👋 I'm Ugoh-Godwin Prince
 
-## Full-Stack JavaScript Engineer
+## Full-Stack Web Developer
 
 I'm a passionate JavaScript developer focused on building scalable backend systems and responsive web applications.
 
