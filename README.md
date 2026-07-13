@@ -46,5 +46,6 @@ Responsive wedding website with an interactive gifting system and Paystack payme
 
 Email:
 **princegodwin1998@gmail.com**
+
 Phone:
-**0708-178-6653**
+**=234-708-178-6653**
