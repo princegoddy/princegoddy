@@ -2,7 +2,7 @@
 
 ## Full-Stack Web Developer
 
-I'm a passionate JavaScript developer focused on building scalable backend systems and responsive web applications.
+I'm a passionate Full-Stack Web Developer focused on building scalable backend systems and responsive web applications.
 
 ---
 
